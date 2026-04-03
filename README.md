@@ -6,6 +6,7 @@ This project predicts retail product demand using time series forecasting techni
 ## Models Used
 - ARIMA (Statistical Time Series Model)
 - LSTM (Deep Learning Model)
+- Random Forest(Machine Learning Model)
 
 ## Technologies
 Python, Pandas, NumPy, TensorFlow, Matplotlib, Scikit-learn
